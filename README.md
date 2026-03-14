@@ -15,9 +15,9 @@ The goal was to closely match the **visual hierarchy and modern SaaS landing pag
 
 # 🌐 Live Demo
 
-🔗 **Live Website**  [text](https://cursor-cloned.vercel.app/)
+🔗 **Live Website**  (https://cursor-cloned.vercel.app/)
 
-📁 **GitHub Repository**  [text](https://github.com/Ashishjha013/cursor-clone)
+📁 **GitHub Repository**  (https://github.com/Ashishjha013/cursor-clone)
 
 ---
 
